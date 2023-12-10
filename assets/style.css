@@ -109,8 +109,8 @@ h1{
     justify-content: space-between;
     align-items: center;
     padding-top: 5%;
-    padding-left: 10%;
-    padding-right: 10%;
+    padding-left: 7%;
+    padding-right: 7%;
 }
 
 .personal-img{
@@ -157,7 +157,7 @@ margin-right: 10px;
     font-family: poppins;
     font-weight: bold;
 }
-/* .boxtext .textname-myname::before{
+.boxtext .textname-myname::before{
     content: '';
     position: absolute;
     width: 100%;
@@ -167,9 +167,9 @@ margin-right: 10px;
     border-left:  2px solid white;
     background-color:#20262E;
     animation: animationOne 5s steps(14) infinite;
-} */
+}
 
-/* @keyframes  animationOne{
+@keyframes  animationOne{
     3%{
         left: 0%;
     }
@@ -182,7 +182,7 @@ margin-right: 10px;
     100%{
         left: 0%;
     }
-} */
+}
 
 .name-about{
     color:#FF5722;
@@ -200,8 +200,8 @@ margin-right: 10px;
 
 .about-description{
     margin-top: 10px;
- padding-left: 10%;
- padding-right: 10%;
+ padding-left: 7%;
+ padding-right: 7%;
 }
 
 
